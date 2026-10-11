@@ -1,0 +1,6 @@
+{
+  "name": "Modern Public Sr. Sec. School, Swarghat",
+  "description": "Official website and secure administration dashboard for Modern Public Sr. Sec. School, Swarghat, Himachal Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
